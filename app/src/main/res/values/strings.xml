@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Los Santos SA MP</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Guardados</string>
+    <string name="title_account">Cuenta</string>
+    <string name="title_login">Login</string>
+    <string name="title_registro">Registro</string>
+    <string name="credenciales_incorrectas">Usuario o contraseña incorrectos, verifica los campos.</string>
+    <string name="login_bienvenida">Bienvenido, inicia sesión en Los Santos : SA MP</string>
+    <string name="bienvenida_registro">Registro nuevo usuario en Los Santos : SA MP</string>
+</resources>
